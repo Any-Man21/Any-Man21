@@ -25,8 +25,8 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Any-Man21&show_icons=true&theme=tokyonight&hide_border=true&align=center" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Any-Man21&layout=compact&theme=tokyonight&hide_border=true&align=center" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Any-Man21&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Any-Man21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
