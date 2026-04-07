@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,node, next,js,tailwind,html,css,git,vscode,vercel,postman,python,C" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,js,tailwind,html,css,git,vscode,vercel,postman,python,c" />
 </a>
 </p>
 
